@@ -2,4 +2,4 @@
 
 // Which type in javascript is a liar?
 
-console.log(typeof null);
+console.log(typeof "ISTA");
